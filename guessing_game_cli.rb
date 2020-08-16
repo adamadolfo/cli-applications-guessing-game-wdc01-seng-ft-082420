@@ -9,5 +9,4 @@ def run_guessing_game
   else
     "Sorry! The computer guessed #{random_number}."
   end
-  
 end
